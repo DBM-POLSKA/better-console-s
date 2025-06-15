@@ -163,5 +163,3 @@ console.log(output);
 - ...
 
 and all hex colors.
-
-# All
