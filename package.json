@@ -1,6 +1,7 @@
 {
   "name": "better-console-s",
   "author": "Shadow",
+  "description": "This is a module whose task is to improve the appearance of console logs.",
   "main": "lib/index.js",
   "version": "1.0.0",
   "license": "MIT",
